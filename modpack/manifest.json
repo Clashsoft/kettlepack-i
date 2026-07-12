@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "KettlePack I",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "",
   "files": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "projectID": 531761,
-      "fileID": 7420963,
+      "fileID": 8404826,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/balm",
@@ -44,7 +44,7 @@
     },
     {
       "projectID": 220318,
-      "fileID": 7251965,
+      "fileID": 8288121,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
@@ -89,7 +89,7 @@
     },
     {
       "projectID": 439890,
-      "fileID": 8083378,
+      "fileID": 8188476,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
@@ -107,7 +107,7 @@
     },
     {
       "projectID": 1216624,
-      "fileID": 8097174,
+      "fileID": 8219463,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/create-dragons-plus",
@@ -116,7 +116,7 @@
     },
     {
       "projectID": 688768,
-      "fileID": 7970748,
+      "fileID": 8241347,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry",
@@ -125,7 +125,7 @@
     },
     {
       "projectID": 1281336,
-      "fileID": 7948263,
+      "fileID": 8281768,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/hypertubes",
@@ -179,7 +179,7 @@
     },
     {
       "projectID": 974009,
-      "fileID": 6060348,
+      "fileID": 8254306,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/emi-ores",
@@ -215,7 +215,7 @@
     },
     {
       "projectID": 448233,
-      "fileID": 8053771,
+      "fileID": 8287097,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
@@ -233,7 +233,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 7746959,
+      "fileID": 8226923,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
@@ -242,7 +242,7 @@
     },
     {
       "projectID": 386134,
-      "fileID": 8078515,
+      "fileID": 8231400,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge",
@@ -296,7 +296,7 @@
     },
     {
       "projectID": 854949,
-      "fileID": 7471474,
+      "fileID": 8355160,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
@@ -314,7 +314,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 7707149,
+      "fileID": 8350073,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
@@ -341,7 +341,7 @@
     },
     {
       "projectID": 686911,
-      "fileID": 7537795,
+      "fileID": 8348515,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
@@ -359,7 +359,7 @@
     },
     {
       "projectID": 605375,
-      "fileID": 8161766,
+      "fileID": 8232359,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/idas",
@@ -386,7 +386,7 @@
     },
     {
       "projectID": 351264,
-      "fileID": 7471280,
+      "fileID": 8335665,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
@@ -404,7 +404,7 @@
     },
     {
       "projectID": 790626,
-      "fileID": 8141551,
+      "fileID": 8360807,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
@@ -422,7 +422,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 8156754,
+      "fileID": 8419104,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/selene",
@@ -476,7 +476,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 8146177,
+      "fileID": 8342602,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/quark",
@@ -485,7 +485,7 @@
     },
     {
       "projectID": 558998,
-      "fileID": 7687594,
+      "fileID": 8301793,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/rechiseled",
@@ -494,7 +494,7 @@
     },
     {
       "projectID": 888624,
-      "fileID": 7522529,
+      "fileID": 8302843,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/rechiseled-create",
@@ -512,7 +512,7 @@
     },
     {
       "projectID": 521480,
-      "fileID": 7857567,
+      "fileID": 8274824,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
@@ -557,7 +557,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 8120873,
+      "fileID": 8419225,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
@@ -584,7 +584,7 @@
     },
     {
       "projectID": 245755,
-      "fileID": 8163145,
+      "fileID": 8404393,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/waystones",
@@ -593,7 +593,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 8046966,
+      "fileID": 8396507,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
@@ -602,7 +602,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 8042208,
+      "fileID": 8392576,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
